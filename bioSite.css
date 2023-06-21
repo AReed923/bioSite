@@ -1,0 +1,33 @@
+header{
+    background-color:#83b466 ;
+    font-family: 'Luminari', fantasy;
+    
+        
+}
+body{
+    background-color: #24571e;
+    text-align: center;
+    color: #573210;
+}
+#navbar{
+    background-color: #83b466;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#container{
+    background-color: #83b466;
+    text-align: center;
+    text-decoration: none;
+    color: #573210;
+}
+h2 {
+    background-color: #24571e;
+    text-align: center;
+    text-decoration: underline;
+}
+p {
+    background-color:  #24571e;
+    text-align:center;
+    font-family: 'Luminari', fantasy;
+}
