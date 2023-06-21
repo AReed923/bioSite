@@ -1,25 +1,23 @@
 header{
-    background-color:#e67416 ;
+    background-color: #114911 ;
     font-family: 'Monotype Corsiva', cursive;
-    
-        
 }
 body{
     background-color: #67974b;
     text-align: center;
-    color: #e67416;
+    color: #442105;
 }
 #navbar{
-    background-color: #e67416;
+    background-color: #114911;
     text-align: center;
-    color: black;
+    color: #442105;
     text-decoration: none;
 }
 #container{
     background: color ;;
     text-align: center;
     text-decoration: none;
-    color: #442906;
+    color: #442105;
 }
 h2 {
     background-color: #67974b;
