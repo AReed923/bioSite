@@ -1,33 +1,33 @@
 header{
-    background-color:#552c15 ;
+    background-color:#e67416 ;
     font-family: 'Monotype Corsiva', cursive;
     
         
 }
 body{
-    background-color: #297a20;
+    background-color: #67974b;
     text-align: center;
-    color: #573210;
+    color: #e67416;
 }
 #navbar{
-    background-color: #552c15;
+    background-color: #e67416;
     text-align: center;
     color: black;
     text-decoration: none;
 }
 #container{
-    background: color #552c15;;
+    background: color ;;
     text-align: center;
     text-decoration: none;
-    color: #73b37e;
+    color: #442906;
 }
 h2 {
-    background-color: #297a20;
+    background-color: #67974b;
     text-align: center;
     text-decoration: underline;
 }
 p {
-    background-color:  #297a20;
+    background-color:  #67974b;
     text-align:center;
     font-family: 'Monotype Corsiva', cursive;
 }
