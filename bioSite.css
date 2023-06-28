@@ -1,10 +1,10 @@
 header{
     font-size: 24px;
-    background-color: #114911 ;
+    background-color: #1c641c ;
     font-family: 'Monotype Corsiva', cursive;
 }
 body{
-    background-color: #9bd877;
+    background-color: #6c9654;
     text-align: center;
     color: #000000;
     }
@@ -27,7 +27,7 @@ h2 {
     text-align: center;
 }
 p {
-    background-color: #9bd877;
+    background-color: #6c9654;
     color: #000000;
     text-align:center;
 }
