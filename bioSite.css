@@ -29,3 +29,10 @@ p {
     text-align:center;
     font-family: 'Monotype Corsiva', cursive;
 }
+a:hover {
+    color: #a8310c
+  }
+  
+  a:visited {
+    color: #ff811b;
+  }
