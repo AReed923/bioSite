@@ -7,18 +7,18 @@ header{
 body{
     background-color: #6c9654;
     text-align: center;
-    color: #000000;
+    color: #693707;
+    }
+img {
+     border: 10px solid #1c641c;
     }
 #navbar{
-    background-color: #114911;
+    background-color: #1c641c;
     text-align: center;
     color: #ff811b;
     text-decoration: none;
 }
 #container{
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
     background-color: #1c641c;
     text-align: center;
     text-decoration: none;
@@ -29,8 +29,10 @@ h2 {
 }
 p {
     background-color: #6c9654;
-    color: #000000;
-    text-align:center;
+    font-size: 17px;
+    color: #693707;
+    text-align:left;
+    text-indent: 5%;
 }
 a:hover {
     color: #a8310c
